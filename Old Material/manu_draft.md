@@ -1,18 +1,24 @@
----
-title: "Gofer"
-author: Ryan Mayers
-lang: en-US
----
+Here’s a fun fact about planes: they’re pretty cheap. Way back in the beginning of commercial aviation, flight was new and classy and luxurious, as much an experience as a mode of transit. It was a novelty. Sure, it’s a technological marvel, but so were cars and trains. Both of these became mundane with time and scale, and aviation fell to the same fate. More people started flying, and it went from a wealthy curiosity to an affordable transportation system. When aviation became an industry, it adopted the economics of industries, and airline design became an economic challenge. Between the surprisingly tight business margins, the insane amount of money put into R&D, and the unpredictability of demand, it is a stressful job to balance the books for an airline. 
 
-# Gofer
+Nowadays, planes are cheap transit. Combine those margins with external factors like geopolitically restricted flight route options, real world effects like the 2020s pandemics and the oil crises of the 1970s and 2030s, and the difficult transition to biofuels over petroleum, and it turns into a business of nickels and dimes. These days, planes are basically buses with wings, and that’s not as much of an exaggeration as you may hope. Manufacture cost per seat for planes has dropped year after year, actually approaching that of city buses. They’re cheap. It’s quantitatively provable. I’ve been saying it for years.
 
+“Could you get to your point, please?” asks Rory.
 
-In 2041, the population on Mars was zero.
+“My point is, we’re polishing shit here. This plane was barely flyable out of the factory, and it’s only worse now,” I answer.
 
-In 2042, for two weeks, the population of low Mars orbit was four. The _Juno_ mission first brought humans into another planet's gravitational sphere of influence.
+Rory McBrannaugh, the repair lead for Platinum Air’s southeast division, sits in the cockpit of an aging, out-of-service Airbus 519s beside me, leaning on his elbow, tired from the workday and the lecture.
 
+“I’ve been working in passenger airline manufacture and maintenance for longer than you’ve been alive, and you just lectured me for twenty minutes just to say that you think planes are shit?”
 
-<!-- below is old manuscript draft material -->
+“I’m saying they’re _manufactured_ like shit. Especially this one. It’s time to decommission it.”
+
+He sighs. “I want to avoid that if at all possible. The company’s already up my ass about getting it back in service.”
+
+“Of course they are, but this plane is unsafe. If for nothing else, we should keep it down until we can replace its cabin seals.”
+
+“Cabin seals? That’s what you’re worried about?”
+
+“Yes.
 
 
 Mr. Kinsen’s tie is crooked. The knot sits to the left of his jowl, not even remotely triangular, like he tied it by trial and error. It’s an awful mustard yellow, completely textureless except for a few small grease stains and crumbs from his lunch. The color doesn’t do his splotchy, old skin any favors, and the greasy lunch probably doesn’t, either. He breathes heavily while he talks, as though he’s exhausted from his long day of sitting behind a desk doing fuck-all.
